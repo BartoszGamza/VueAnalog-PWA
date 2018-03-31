@@ -5,7 +5,7 @@
         <router-link to="/">HOT</router-link>
         <router-link to="/rising">RISING</router-link>
         <router-link to="/new">NEW</router-link>
-        <router-link to="/controversial">CONTROVERSIAL</router-link>
+        <router-link to="/controversial">CNTR</router-link>
         <router-link to="/top">TOP</router-link>
         <router-link to="/gold">GOLD</router-link>
       </nav>
@@ -34,7 +34,7 @@ body
   right 0
   box-shadow 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)
   .inner
-    max-width 800px
+    max-width 500px
     box-sizing border-box
     margin 0px auto
     text-align center
@@ -47,12 +47,12 @@ body
     vertical-align middle
     font-weight 300
     letter-spacing .075em
-    padding-left 10px
-    padding-right 10px
+    padding-left 5px
+    padding-right 5px
     &:hover
       color #8c8c8c
 .view
-  max-width 800px
+  max-width 500px
   margin 0 auto
   position relative
 </style>
