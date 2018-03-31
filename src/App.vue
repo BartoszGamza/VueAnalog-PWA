@@ -47,8 +47,8 @@ body
     vertical-align middle
     font-weight 300
     letter-spacing .075em
-    padding-left 15px
-    padding-right 15px
+    padding-left 10px
+    padding-right 10px
     &:hover
       color #8c8c8c
 .view
